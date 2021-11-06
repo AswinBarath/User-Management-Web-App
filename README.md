@@ -1,5 +1,6 @@
 # CRUD User Management Application
 
+- A MERN stack User Management Web App with CRUD operations
 - **MVC** (Model-View-Controller) is an application design pattern that seperates the application data from business logic and presentation
 
 ## Project structure
